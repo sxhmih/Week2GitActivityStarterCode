@@ -10,11 +10,9 @@ console.log(`result_subtract = ${result_subtract}`);
 
 const result_multiply = calc.multiply(5,3);
 console.log(`result_multiply = ${result_multiply}`);
-const result_divide = calc.divide(10,5);
-console.log(`result_divide = ${result_divide}`);
-
 
 
 
 const result_divide = calc.divide(10,5);
 console.log(`result_divide = ${result_divide}`);
+console.log('done.')
