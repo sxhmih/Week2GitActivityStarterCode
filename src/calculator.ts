@@ -5,9 +5,11 @@ export class Calculator {
   public subtract(x:number, y:number) : number {
 	return x-y;
 }
- public subtract(x: number, y:number)  : number {
+  
+ public multiply(x: number, y:number)  : number {
 	return x *y;
 }
+
 };
 
 
